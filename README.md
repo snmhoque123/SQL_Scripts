@@ -185,15 +185,15 @@ Figure 7: Data-flow diagram for Incremental load of ETL Pipeline from flat file 
 
  Figure 8: Control-flow diagram for ETL Pipeline for EDW
 
-  ![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCETL5.PNG) 
+  ![Purchase Analysis](https://github.com/snmhoque123/sql.github.io/blob/main/Figures/SCETL5.png) 
 
  Figure 9: Data-flow diagram of ETL Pipeline for EDW Dimension table
 
-  ![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCETL6.PNG) 
+  ![Purchase Analysis](https://github.com/snmhoque123/sql.github.io/blob/main/Figures/SCETL6.png) 
 
 Figure 10: Data-flow diagram for Incremental load of ETL Pipeline EDW Fact table
 
-![Sales Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/Control.PNG)
+![Sales Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/Control.png)
 
 Figure 11: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
 
@@ -201,10 +201,10 @@ Figure 11: Control-flow diagram for ETL Pipeline to automate the system through 
 
 - Data Mart Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
 
-![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCM.PNG)  
+![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCM.png)  
 
 Figure 12: Purchase Cube for Multidimensional Analysis
 
-![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCT.PNG)  
+![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCT.png)  
 
 Figure 13: Purchase Cube for Tabular Analysis
